@@ -76,7 +76,3 @@ The project includes the following graphs:
 
 ## Author
 Ambati Phaneendra Kumar
-
-
-
-this is my frnd read me like i want for me 
